@@ -1,0 +1,17 @@
+package package1;
+//Write a Program on IF Block
+public class Assignment47 
+{
+public static void main(String[] args) 
+{
+		int a=10;
+		int b=20;
+		if(a<b)
+		{
+			System.out.println("block will execute");
+		}
+
+	}
+
+}
+

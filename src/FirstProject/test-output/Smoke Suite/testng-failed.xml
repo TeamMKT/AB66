@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Smoke Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Testing Firefox(failed)">
+    <parameter name="browsers" value="firefox"/>
+    <classes>
+      <class name="annotations.TC002_AmazonAddtocart">
+        <methods>
+          <include name="quitBrowser"/>
+          <include name="launchbrowsers"/>
+          <include name="addtocartamazon"/>
+        </methods>
+      </class> <!-- annotations.TC002_AmazonAddtocart -->
+    </classes>
+  </test> <!-- Testing Firefox(failed) -->
+</suite> <!-- Failed suite [Smoke Suite] -->
