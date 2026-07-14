@@ -9,6 +9,6 @@ public class LoginCode extends ScreenshotLogic
 	
 	static void logout()
 	{
-		System.out.println("logout");
+		System.out.println("logout Test failed");
 	}
 }
