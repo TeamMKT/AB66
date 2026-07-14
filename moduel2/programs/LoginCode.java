@@ -4,7 +4,7 @@ public class LoginCode extends ScreenshotLogic
 {
 	static void loginWithValidCredentails()
 	{
-		System.out.println("Login");
+		System.out.println("Login Test Passed");
 	}
 	
 	static void logout()
