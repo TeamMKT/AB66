@@ -5,7 +5,7 @@ public class AmazonProgram
 	
 	AmazonProgram()
 	{
-		System.out.println("COnstructor 1");
+		System.out.println("This is COnstructor 1");
 	}
 	AmazonProgram(int a)
 	{
