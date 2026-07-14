@@ -1,10 +1,10 @@
 package moduel2.programs;
 
 public class LoginCode extends ScreenshotLogic
-{
+{ 
 	static void loginWithValidCredentails()
 	{
-		System.out.println("Login");
+		System.out.println("Login Test Failed");
 	}
 	
 	static void logout()
